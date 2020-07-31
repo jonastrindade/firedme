@@ -6,7 +6,7 @@ const ButtonFired = styled.button`
   color: var(--color-gray-light);
   border: 1px solid var(--color-gray-light);
   border-radius: 4px;
-  font-size: 19rem;
+  font-size: 16rem;
   cursor: pointer;
 `;
 

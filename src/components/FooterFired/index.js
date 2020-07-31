@@ -9,7 +9,7 @@ const FooterFired = styled.footer`
   background-color: var(--color-black-dark);
   color: var(--color-gray-light);
   font-size: 16rem;
-  padding: 20rem 0;
+  padding: 10rem 0;
   border-top: 4px solid var(--color-red-netflix);
 
   & > ${LogoFired} {
